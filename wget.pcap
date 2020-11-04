@@ -1,0 +1,160 @@
+21:18:17.927565 ARP, Request who-has 13.0.0.29 tell 11.0.0.27, length 28
+21:18:17.927635 ARP, Reply 13.0.0.29 is-at 68:05:ca:30:5a:50 (oui Unknown), length 46
+21:18:17.927649 ARP, Reply 13.0.0.29 is-at 68:05:ca:30:5a:50 (oui Unknown), length 46
+21:18:17.927651 ARP, Reply 13.0.0.29 is-at 68:05:ca:30:5a:50 (oui Unknown), length 46
+21:18:17.927652 ARP, Reply 13.0.0.29 is-at 68:05:ca:30:5a:50 (oui Unknown), length 46
+21:18:17.927653 ARP, Reply 13.0.0.29 is-at 68:05:ca:30:5a:50 (oui Unknown), length 46
+21:18:17.927661 ARP, Reply 13.0.0.29 is-at 68:05:ca:30:5a:50 (oui Unknown), length 46
+21:18:17.927663 ARP, Reply 13.0.0.29 is-at 68:05:ca:30:5a:50 (oui Unknown), length 46
+21:18:17.927664 ARP, Reply 13.0.0.29 is-at 68:05:ca:30:5a:50 (oui Unknown), length 46
+21:18:17.927790 ARP, Reply 13.0.0.29 is-at 68:05:ca:30:5a:50 (oui Unknown), length 46
+21:18:17.927795 ARP, Reply 13.0.0.29 is-at 68:05:ca:30:5a:50 (oui Unknown), length 46
+21:18:17.927796 ARP, Reply 13.0.0.29 is-at 68:05:ca:30:5a:50 (oui Unknown), length 46
+21:18:17.927798 ARP, Reply 13.0.0.29 is-at 68:05:ca:30:5a:50 (oui Unknown), length 46
+21:18:17.927799 ARP, Reply 13.0.0.29 is-at 68:05:ca:30:5a:50 (oui Unknown), length 46
+21:18:17.927805 ARP, Reply 13.0.0.29 is-at 68:05:ca:30:5a:50 (oui Unknown), length 46
+21:18:17.927806 ARP, Reply 13.0.0.29 is-at 68:05:ca:30:5a:50 (oui Unknown), length 46
+21:18:18.030227 ARP, Request who-has 11.0.0.27 tell 13.0.0.29, length 46
+21:18:18.030238 ARP, Reply 11.0.0.27 is-at 68:05:ca:30:52:cc (oui Unknown), length 28
+21:18:18.030242 ARP, Request who-has 11.0.0.27 tell 13.0.0.29, length 46
+21:18:18.030246 ARP, Reply 11.0.0.27 is-at 68:05:ca:30:52:cc (oui Unknown), length 28
+21:18:18.030323 ARP, Request who-has 11.0.0.27 tell 13.0.0.29, length 46
+21:18:18.030332 ARP, Reply 11.0.0.27 is-at 68:05:ca:30:52:cc (oui Unknown), length 28
+21:18:18.030336 ARP, Request who-has 11.0.0.27 tell 13.0.0.29, length 46
+21:18:18.030339 ARP, Reply 11.0.0.27 is-at 68:05:ca:30:52:cc (oui Unknown), length 28
+21:18:18.910895 IP 11.0.0.27.33852 > 13.0.0.29.http: Flags [S], seq 1743608175, win 64240, options [mss 1460,sackOK,TS val 3630877962 ecr 0,nop,wscale 7], length 0
+21:18:18.911101 IP 13.0.0.29.http > 11.0.0.27.33852: Flags [S.], seq 2949300150, ack 1743608176, win 1448, options [mss 1460,sackOK,TS val 2758745096 ecr 3630877962,nop,wscale 9], length 0
+21:18:18.911136 IP 11.0.0.27.33852 > 13.0.0.29.http: Flags [.], ack 1, win 502, options [nop,nop,TS val 3630877962 ecr 2758745096], length 0
+21:18:18.911142 IP 13.0.0.29.http > 11.0.0.27.33852: Flags [S.], seq 2949300150, ack 1743608176, win 1448, options [mss 1460,sackOK,TS val 2758745096 ecr 3630877962,nop,wscale 9], length 0
+21:18:18.911149 IP 11.0.0.27.33852 > 13.0.0.29.http: Flags [.], ack 1, win 502, options [nop,nop,TS val 3630877962 ecr 2758745096], length 0
+21:18:18.911152 IP 13.0.0.29.http > 11.0.0.27.33852: Flags [S.], seq 2949300150, ack 1743608176, win 1448, options [mss 1460,sackOK,TS val 2758745096 ecr 3630877962,nop,wscale 9], length 0
+21:18:18.911156 IP 13.0.0.29.http > 11.0.0.27.33852: Flags [S.], seq 2949300150, ack 1743608176, win 1448, options [mss 1460,sackOK,TS val 2758745096 ecr 3630877962,nop,wscale 9], length 0
+21:18:18.911157 IP 13.0.0.29.http > 11.0.0.27.33852: Flags [S.], seq 2949300150, ack 1743608176, win 1448, options [mss 1460,sackOK,TS val 2758745096 ecr 3630877962,nop,wscale 9], length 0
+21:18:18.911159 IP 13.0.0.29.http > 11.0.0.27.33852: Flags [S.], seq 2949300150, ack 1743608176, win 1448, options [mss 1460,sackOK,TS val 2758745096 ecr 3630877962,nop,wscale 9], length 0
+21:18:18.911161 IP 13.0.0.29.http > 11.0.0.27.33852: Flags [S.], seq 2949300150, ack 1743608176, win 1448, options [mss 1460,sackOK,TS val 2758745096 ecr 3630877962,nop,wscale 9], length 0
+21:18:18.911169 IP 13.0.0.29.http > 11.0.0.27.33852: Flags [S.], seq 2949300150, ack 1743608176, win 1448, options [mss 1460,sackOK,TS val 2758745096 ecr 3630877962,nop,wscale 9], length 0
+21:18:18.911213 IP 11.0.0.27.33852 > 13.0.0.29.http: Flags [P.], seq 1:137, ack 1, win 502, options [nop,nop,TS val 3630877962 ecr 2758745096], length 136: HTTP: GET / HTTP/1.1
+21:18:18.911324 IP 13.0.0.29.http > 11.0.0.27.33852: Flags [.], ack 137, win 3, options [nop,nop,TS val 2758745096 ecr 3630877962], length 0
+21:18:18.911335 IP 13.0.0.29.http > 11.0.0.27.33852: Flags [.], ack 137, win 3, options [nop,nop,TS val 2758745096 ecr 3630877962], length 0
+21:18:18.911339 IP 13.0.0.29.http > 11.0.0.27.33852: Flags [.], ack 137, win 3, options [nop,nop,TS val 2758745096 ecr 3630877962], length 0
+21:18:18.911347 IP 13.0.0.29.http > 11.0.0.27.33852: Flags [.], ack 137, win 3, options [nop,nop,TS val 2758745096 ecr 3630877962], length 0
+21:18:18.911502 IP 13.0.0.29.http > 11.0.0.27.33852: Flags [.], ack 137, win 3, options [nop,nop,TS val 2758745096 ecr 3630877962,nop,nop,sack 1 {1:137}], length 0
+21:18:18.911512 IP 13.0.0.29.http > 11.0.0.27.33852: Flags [.], ack 137, win 3, options [nop,nop,TS val 2758745096 ecr 3630877962,nop,nop,sack 1 {1:137}], length 0
+21:18:18.911516 IP 13.0.0.29.http > 11.0.0.27.33852: Flags [.], ack 137, win 3, options [nop,nop,TS val 2758745096 ecr 3630877962,nop,nop,sack 1 {1:137}], length 0
+21:18:18.911519 IP 13.0.0.29.http > 11.0.0.27.33852: Flags [.], ack 137, win 3, options [nop,nop,TS val 2758745096 ecr 3630877962,nop,nop,sack 1 {1:137}], length 0
+21:18:18.911707 IP 13.0.0.29.http > 11.0.0.27.33852: Flags [.], seq 1:1449, ack 137, win 3, options [nop,nop,TS val 2758745097 ecr 3630877962], length 1448: HTTP: HTTP/1.1 200 OK
+21:18:18.911719 IP 11.0.0.27.33852 > 13.0.0.29.http: Flags [.], ack 1449, win 501, options [nop,nop,TS val 3630877963 ecr 2758745097], length 0
+21:18:18.911727 IP 13.0.0.29.http > 11.0.0.27.33852: Flags [.], seq 1:1449, ack 137, win 3, options [nop,nop,TS val 2758745097 ecr 3630877962], length 1448: HTTP: HTTP/1.1 200 OK
+21:18:18.911736 IP 11.0.0.27.33852 > 13.0.0.29.http: Flags [.], ack 1449, win 501, options [nop,nop,TS val 3630877963 ecr 2758745097,nop,nop,sack 1 {1:1449}], length 0
+21:18:18.911740 IP 13.0.0.29.http > 11.0.0.27.33852: Flags [.], seq 1:1449, ack 137, win 3, options [nop,nop,TS val 2758745097 ecr 3630877962], length 1448: HTTP: HTTP/1.1 200 OK
+21:18:18.911746 IP 11.0.0.27.33852 > 13.0.0.29.http: Flags [.], ack 1449, win 501, options [nop,nop,TS val 3630877963 ecr 2758745097,nop,nop,sack 1 {1:1449}], length 0
+21:18:18.911749 IP 13.0.0.29.http > 11.0.0.27.33852: Flags [.], seq 1:1449, ack 137, win 3, options [nop,nop,TS val 2758745097 ecr 3630877962], length 1448: HTTP: HTTP/1.1 200 OK
+21:18:18.911754 IP 11.0.0.27.33852 > 13.0.0.29.http: Flags [.], ack 1449, win 501, options [nop,nop,TS val 3630877963 ecr 2758745097,nop,nop,sack 1 {1:1449}], length 0
+21:18:18.911759 IP 13.0.0.29.http > 11.0.0.27.33852: Flags [.], seq 4345:7241, ack 137, win 3, options [nop,nop,TS val 2758745097 ecr 3630877962], length 2896: HTTP
+21:18:18.911764 IP 11.0.0.27.33852 > 13.0.0.29.http: Flags [.], ack 1449, win 501, options [nop,nop,TS val 3630877963 ecr 2758745097,nop,nop,sack 1 {4345:7241}], length 0
+21:18:18.911767 IP 13.0.0.29.http > 11.0.0.27.33852: Flags [.], seq 1449:2897, ack 137, win 3, options [nop,nop,TS val 2758745097 ecr 3630877962], length 1448: HTTP
+21:18:18.911772 IP 11.0.0.27.33852 > 13.0.0.29.http: Flags [.], ack 2897, win 490, options [nop,nop,TS val 3630877963 ecr 2758745097,nop,nop,sack 1 {4345:7241}], length 0
+21:18:18.911775 IP 13.0.0.29.http > 11.0.0.27.33852: Flags [.], seq 4345:5793, ack 137, win 3, options [nop,nop,TS val 2758745097 ecr 3630877962], length 1448: HTTP
+21:18:18.911779 IP 11.0.0.27.33852 > 13.0.0.29.http: Flags [.], ack 2897, win 490, options [nop,nop,TS val 3630877963 ecr 2758745097,nop,nop,sack 2 {4345:5793}{4345:7241}], length 0
+21:18:18.911781 IP 13.0.0.29.http > 11.0.0.27.33852: Flags [.], seq 1449:2897, ack 137, win 3, options [nop,nop,TS val 2758745097 ecr 3630877962], length 1448: HTTP
+21:18:18.911785 IP 11.0.0.27.33852 > 13.0.0.29.http: Flags [.], ack 2897, win 490, options [nop,nop,TS val 3630877963 ecr 2758745097,nop,nop,sack 2 {1449:2897}{4345:7241}], length 0
+21:18:18.911787 IP 13.0.0.29.http > 11.0.0.27.33852: Flags [.], seq 4345:5793, ack 137, win 3, options [nop,nop,TS val 2758745097 ecr 3630877962], length 1448: HTTP
+21:18:18.911790 IP 11.0.0.27.33852 > 13.0.0.29.http: Flags [.], ack 2897, win 490, options [nop,nop,TS val 3630877963 ecr 2758745097,nop,nop,sack 2 {4345:5793}{4345:7241}], length 0
+21:18:18.911792 IP 13.0.0.29.http > 11.0.0.27.33852: Flags [.], seq 1449:2897, ack 137, win 3, options [nop,nop,TS val 2758745097 ecr 3630877962], length 1448: HTTP
+21:18:18.911796 IP 11.0.0.27.33852 > 13.0.0.29.http: Flags [.], ack 2897, win 490, options [nop,nop,TS val 3630877963 ecr 2758745097,nop,nop,sack 2 {1449:2897}{4345:7241}], length 0
+21:18:18.911798 IP 13.0.0.29.http > 11.0.0.27.33852: Flags [.], seq 1449:2897, ack 137, win 3, options [nop,nop,TS val 2758745097 ecr 3630877962], length 1448: HTTP
+21:18:18.911801 IP 11.0.0.27.33852 > 13.0.0.29.http: Flags [.], ack 2897, win 490, options [nop,nop,TS val 3630877963 ecr 2758745097,nop,nop,sack 2 {1449:2897}{4345:7241}], length 0
+21:18:18.911803 IP 13.0.0.29.http > 11.0.0.27.33852: Flags [.], seq 5793:7241, ack 137, win 3, options [nop,nop,TS val 2758745097 ecr 3630877962], length 1448: HTTP
+21:18:18.911806 IP 11.0.0.27.33852 > 13.0.0.29.http: Flags [.], ack 2897, win 490, options [nop,nop,TS val 3630877963 ecr 2758745097,nop,nop,sack 2 {5793:7241}{4345:7241}], length 0
+21:18:18.911808 IP 13.0.0.29.http > 11.0.0.27.33852: Flags [.], seq 5793:7241, ack 137, win 3, options [nop,nop,TS val 2758745097 ecr 3630877962], length 1448: HTTP
+21:18:18.911812 IP 11.0.0.27.33852 > 13.0.0.29.http: Flags [.], ack 2897, win 490, options [nop,nop,TS val 3630877963 ecr 2758745097,nop,nop,sack 2 {5793:7241}{4345:7241}], length 0
+21:18:18.911814 IP 13.0.0.29.http > 11.0.0.27.33852: Flags [.], seq 2897:4345, ack 137, win 3, options [nop,nop,TS val 2758745097 ecr 3630877962], length 1448: HTTP
+21:18:18.911818 IP 11.0.0.27.33852 > 13.0.0.29.http: Flags [.], ack 7241, win 471, options [nop,nop,TS val 3630877963 ecr 2758745097], length 0
+21:18:18.911820 IP 13.0.0.29.http > 11.0.0.27.33852: Flags [.], seq 2897:4345, ack 137, win 3, options [nop,nop,TS val 2758745097 ecr 3630877962], length 1448: HTTP
+21:18:18.911823 IP 11.0.0.27.33852 > 13.0.0.29.http: Flags [.], ack 7241, win 471, options [nop,nop,TS val 3630877963 ecr 2758745097,nop,nop,sack 1 {2897:4345}], length 0
+21:18:18.911825 IP 13.0.0.29.http > 11.0.0.27.33852: Flags [.], seq 2897:4345, ack 137, win 3, options [nop,nop,TS val 2758745097 ecr 3630877962], length 1448: HTTP
+21:18:18.911829 IP 11.0.0.27.33852 > 13.0.0.29.http: Flags [.], ack 7241, win 471, options [nop,nop,TS val 3630877963 ecr 2758745097,nop,nop,sack 1 {2897:4345}], length 0
+21:18:18.911831 IP 13.0.0.29.http > 11.0.0.27.33852: Flags [.], seq 2897:4345, ack 137, win 3, options [nop,nop,TS val 2758745097 ecr 3630877962], length 1448: HTTP
+21:18:18.911833 IP 11.0.0.27.33852 > 13.0.0.29.http: Flags [.], ack 7241, win 471, options [nop,nop,TS val 3630877963 ecr 2758745097,nop,nop,sack 1 {2897:4345}], length 0
+21:18:18.911837 IP 13.0.0.29.http > 11.0.0.27.33852: Flags [.], seq 7241:8689, ack 137, win 3, options [nop,nop,TS val 2758745097 ecr 3630877962], length 1448: HTTP
+21:18:18.911841 IP 11.0.0.27.33852 > 13.0.0.29.http: Flags [.], ack 8689, win 463, options [nop,nop,TS val 3630877963 ecr 2758745097], length 0
+21:18:18.911843 IP 13.0.0.29.http > 11.0.0.27.33852: Flags [.], seq 7241:8689, ack 137, win 3, options [nop,nop,TS val 2758745097 ecr 3630877962], length 1448: HTTP
+21:18:18.911848 IP 13.0.0.29.http > 11.0.0.27.33852: Flags [.], seq 7241:10137, ack 137, win 3, options [nop,nop,TS val 2758745097 ecr 3630877962], length 2896: HTTP
+21:18:18.911854 IP 13.0.0.29.http > 11.0.0.27.33852: Flags [.], seq 8689:10137, ack 137, win 3, options [nop,nop,TS val 2758745097 ecr 3630877962], length 1448: HTTP
+21:18:18.911859 IP 13.0.0.29.http > 11.0.0.27.33852: Flags [.], seq 8689:10137, ack 137, win 3, options [nop,nop,TS val 2758745097 ecr 3630877962], length 1448: HTTP
+21:18:18.911863 IP 11.0.0.27.33852 > 13.0.0.29.http: Flags [.], ack 8689, win 463, options [nop,nop,TS val 3630877963 ecr 2758745097,nop,nop,sack 1 {7241:8689}], length 0
+21:18:18.911866 IP 13.0.0.29.http > 11.0.0.27.33852: Flags [P.], seq 8689:11230, ack 137, win 3, options [nop,nop,TS val 2758745097 ecr 3630877962], length 2541: HTTP
+21:18:18.911872 IP 11.0.0.27.33852 > 13.0.0.29.http: Flags [.], ack 10137, win 452, options [nop,nop,TS val 3630877963 ecr 2758745097,nop,nop,sack 1 {7241:8689}], length 0
+21:18:18.911873 IP 11.0.0.27.33852 > 13.0.0.29.http: Flags [.], ack 10137, win 452, options [nop,nop,TS val 3630877963 ecr 2758745097,nop,nop,sack 1 {8689:10137}], length 0
+21:18:18.911874 IP 11.0.0.27.33852 > 13.0.0.29.http: Flags [.], ack 10137, win 452, options [nop,nop,TS val 3630877963 ecr 2758745097,nop,nop,sack 1 {8689:10137}], length 0
+21:18:18.911875 IP 11.0.0.27.33852 > 13.0.0.29.http: Flags [.], ack 11230, win 444, options [nop,nop,TS val 3630877963 ecr 2758745097,nop,nop,sack 1 {8689:10137}], length 0
+21:18:18.911877 IP 13.0.0.29.http > 11.0.0.27.33852: Flags [P.], seq 10137:11230, ack 137, win 3, options [nop,nop,TS val 2758745097 ecr 3630877962], length 1093: HTTP
+21:18:18.911880 IP 11.0.0.27.33852 > 13.0.0.29.http: Flags [.], ack 11230, win 444, options [nop,nop,TS val 3630877963 ecr 2758745097,nop,nop,sack 1 {10137:11230}], length 0
+21:18:18.911895 IP 13.0.0.29.http > 11.0.0.27.33852: Flags [P.], seq 10137:11230, ack 137, win 3, options [nop,nop,TS val 2758745097 ecr 3630877962], length 1093: HTTP
+21:18:18.911901 IP 11.0.0.27.33852 > 13.0.0.29.http: Flags [.], ack 11230, win 444, options [nop,nop,TS val 3630877963 ecr 2758745097,nop,nop,sack 1 {10137:11230}], length 0
+21:18:18.911903 IP 13.0.0.29.http > 11.0.0.27.33852: Flags [P.], seq 10137:11230, ack 137, win 3, options [nop,nop,TS val 2758745097 ecr 3630877962], length 1093: HTTP
+21:18:18.911906 IP 11.0.0.27.33852 > 13.0.0.29.http: Flags [.], ack 11230, win 444, options [nop,nop,TS val 3630877963 ecr 2758745097,nop,nop,sack 1 {10137:11230}], length 0
+21:18:18.912480 IP 11.0.0.27.33852 > 13.0.0.29.http: Flags [F.], seq 137, ack 11230, win 501, options [nop,nop,TS val 3630877964 ecr 2758745097], length 0
+21:18:18.912667 IP 13.0.0.29.http > 11.0.0.27.33852: Flags [.], ack 138, win 3, options [nop,nop,TS val 2758745098 ecr 3630877964,nop,nop,sack 1 {137:138}], length 0
+21:18:18.912691 IP 13.0.0.29.http > 11.0.0.27.33852: Flags [.], ack 138, win 3, options [nop,nop,TS val 2758745098 ecr 3630877964,nop,nop,sack 1 {137:138}], length 0
+21:18:18.912704 IP 13.0.0.29.http > 11.0.0.27.33852: Flags [.], ack 138, win 3, options [nop,nop,TS val 2758745098 ecr 3630877964,nop,nop,sack 1 {137:138}], length 0
+21:18:18.912707 IP 13.0.0.29.http > 11.0.0.27.33852: Flags [.], ack 138, win 3, options [nop,nop,TS val 2758745098 ecr 3630877964,nop,nop,sack 1 {137:138}], length 0
+21:18:18.912817 IP 13.0.0.29.http > 11.0.0.27.33852: Flags [.], ack 138, win 3, options [nop,nop,TS val 2758745098 ecr 3630877964,nop,nop,sack 1 {137:138}], length 0
+21:18:18.912825 IP 13.0.0.29.http > 11.0.0.27.33852: Flags [.], ack 138, win 3, options [nop,nop,TS val 2758745098 ecr 3630877964,nop,nop,sack 1 {137:138}], length 0
+21:18:18.912827 IP 13.0.0.29.http > 11.0.0.27.33852: Flags [.], ack 138, win 3, options [nop,nop,TS val 2758745098 ecr 3630877964,nop,nop,sack 1 {137:138}], length 0
+21:18:18.912829 IP 13.0.0.29.http > 11.0.0.27.33852: Flags [.], ack 138, win 3, options [nop,nop,TS val 2758745098 ecr 3630877964,nop,nop,sack 1 {137:138}], length 0
+21:18:18.912831 IP 13.0.0.29.http > 11.0.0.27.33852: Flags [F.], seq 11230, ack 138, win 3, options [nop,nop,TS val 2758745098 ecr 3630877964], length 0
+21:18:18.912842 IP 11.0.0.27.33852 > 13.0.0.29.http: Flags [.], ack 11231, win 501, options [nop,nop,TS val 3630877964 ecr 2758745098], length 0
+21:18:18.912846 IP 13.0.0.29.http > 11.0.0.27.33852: Flags [F.], seq 11230, ack 138, win 3, options [nop,nop,TS val 2758745098 ecr 3630877964], length 0
+21:18:18.912854 IP 11.0.0.27.33852 > 13.0.0.29.http: Flags [.], ack 11231, win 501, options [nop,nop,TS val 3630877964 ecr 2758745098], length 0
+21:18:18.912934 IP 13.0.0.29.http > 11.0.0.27.33852: Flags [F.], seq 11230, ack 138, win 3, options [nop,nop,TS val 2758745098 ecr 3630877964], length 0
+21:18:18.912947 IP 11.0.0.27.33852 > 13.0.0.29.http: Flags [.], ack 11231, win 501, options [nop,nop,TS val 3630877964 ecr 2758745098], length 0
+21:18:18.912952 IP 13.0.0.29.http > 11.0.0.27.33852: Flags [F.], seq 11230, ack 138, win 3, options [nop,nop,TS val 2758745098 ecr 3630877964], length 0
+21:18:18.912959 IP 11.0.0.27.33852 > 13.0.0.29.http: Flags [.], ack 11231, win 501, options [nop,nop,TS val 3630877964 ecr 2758745098], length 0
+21:18:18.912963 IP 13.0.0.29.http > 11.0.0.27.33852: Flags [R], seq 2949311381, win 0, length 0
+21:18:18.912968 IP 13.0.0.29.http > 11.0.0.27.33852: Flags [R], seq 2949311381, win 0, length 0
+21:18:18.912977 IP 13.0.0.29.http > 11.0.0.27.33852: Flags [R], seq 2949311381, win 0, length 0
+21:18:18.912980 IP 13.0.0.29.http > 11.0.0.27.33852: Flags [R], seq 2949311381, win 0, length 0
+21:18:18.913088 IP 13.0.0.29.http > 11.0.0.27.33852: Flags [R], seq 2949311381, win 0, length 0
+21:18:18.913096 IP 13.0.0.29.http > 11.0.0.27.33852: Flags [R], seq 2949311381, win 0, length 0
+21:18:18.913098 IP 13.0.0.29.http > 11.0.0.27.33852: Flags [R], seq 2949311381, win 0, length 0
+21:18:18.913101 IP 13.0.0.29.http > 11.0.0.27.33852: Flags [R], seq 2949311381, win 0, length 0
+21:18:18.913103 IP 13.0.0.29.http > 11.0.0.27.33852: Flags [R], seq 2949311381, win 0, length 0
+21:18:18.913105 IP 13.0.0.29.http > 11.0.0.27.33852: Flags [R], seq 2949311381, win 0, length 0
+21:18:18.913108 IP 13.0.0.29.http > 11.0.0.27.33852: Flags [R], seq 2949311381, win 0, length 0
+21:18:18.913110 IP 13.0.0.29.http > 11.0.0.27.33852: Flags [R], seq 2949311381, win 0, length 0
+21:18:18.913112 IP 13.0.0.29.http > 11.0.0.27.33852: Flags [R], seq 2949311381, win 0, length 0
+21:18:18.913115 IP 13.0.0.29.http > 11.0.0.27.33852: Flags [R], seq 2949311381, win 0, length 0
+21:18:18.913117 IP 13.0.0.29.http > 11.0.0.27.33852: Flags [R], seq 2949311381, win 0, length 0
+21:18:18.913119 IP 13.0.0.29.http > 11.0.0.27.33852: Flags [R], seq 2949311381, win 0, length 0
+21:18:18.913122 IP 13.0.0.29.http > 11.0.0.27.33852: Flags [R], seq 2949311381, win 0, length 0
+21:18:18.913124 IP 13.0.0.29.http > 11.0.0.27.33852: Flags [R], seq 2949311381, win 0, length 0
+21:18:18.913126 IP 13.0.0.29.http > 11.0.0.27.33852: Flags [R], seq 2949311381, win 0, length 0
+21:18:18.913128 IP 13.0.0.29.http > 11.0.0.27.33852: Flags [R], seq 2949311381, win 0, length 0
+21:18:18.913131 IP 13.0.0.29.http > 11.0.0.27.33852: Flags [R], seq 2949311381, win 0, length 0
+21:18:18.913133 IP 13.0.0.29.http > 11.0.0.27.33852: Flags [R], seq 2949311381, win 0, length 0
+21:18:18.913136 IP 13.0.0.29.http > 11.0.0.27.33852: Flags [R], seq 2949311381, win 0, length 0
+21:18:18.913138 IP 13.0.0.29.http > 11.0.0.27.33852: Flags [R], seq 2949311381, win 0, length 0
+21:18:18.913140 IP 13.0.0.29.http > 11.0.0.27.33852: Flags [R], seq 2949311381, win 0, length 0
+21:18:18.913141 IP 13.0.0.29.http > 11.0.0.27.33852: Flags [R], seq 2949311381, win 0, length 0
+21:18:18.913143 IP 13.0.0.29.http > 11.0.0.27.33852: Flags [R], seq 2949311381, win 0, length 0
+21:18:18.913145 IP 13.0.0.29.http > 11.0.0.27.33852: Flags [R], seq 2949311381, win 0, length 0
+21:18:18.913147 IP 13.0.0.29.http > 11.0.0.27.33852: Flags [R], seq 2949311381, win 0, length 0
+21:18:18.913149 IP 13.0.0.29.http > 11.0.0.27.33852: Flags [R], seq 2949311381, win 0, length 0
+21:18:18.913150 IP 13.0.0.29.http > 11.0.0.27.33852: Flags [R], seq 2949311381, win 0, length 0
+21:18:18.913152 IP 13.0.0.29.http > 11.0.0.27.33852: Flags [R], seq 2949311381, win 0, length 0
+21:18:18.913154 IP 13.0.0.29.http > 11.0.0.27.33852: Flags [R], seq 2949311381, win 0, length 0
+21:18:18.913155 IP 13.0.0.29.http > 11.0.0.27.33852: Flags [R], seq 2949311381, win 0, length 0
+21:18:18.913157 IP 13.0.0.29.http > 11.0.0.27.33852: Flags [R], seq 2949311381, win 0, length 0
+21:18:18.913159 IP 13.0.0.29.http > 11.0.0.27.33852: Flags [R], seq 2949311381, win 0, length 0
+21:18:18.913160 IP 13.0.0.29.http > 11.0.0.27.33852: Flags [R], seq 2949311381, win 0, length 0
+21:18:18.913162 IP 13.0.0.29.http > 11.0.0.27.33852: Flags [R], seq 2949311381, win 0, length 0
+21:18:18.913164 IP 13.0.0.29.http > 11.0.0.27.33852: Flags [R], seq 2949311381, win 0, length 0
+21:18:18.913166 IP 13.0.0.29.http > 11.0.0.27.33852: Flags [R], seq 2949311381, win 0, length 0
+21:18:18.913167 IP 13.0.0.29.http > 11.0.0.27.33852: Flags [R], seq 2949311381, win 0, length 0
+21:18:18.913169 IP 13.0.0.29.http > 11.0.0.27.33852: Flags [R], seq 2949311381, win 0, length 0
+21:18:18.913171 IP 13.0.0.29.http > 11.0.0.27.33852: Flags [R], seq 2949311381, win 0, length 0
+21:18:18.913172 IP 13.0.0.29.http > 11.0.0.27.33852: Flags [R], seq 2949311381, win 0, length 0
+21:18:18.913174 IP 13.0.0.29.http > 11.0.0.27.33852: Flags [R], seq 2949311381, win 0, length 0
+21:18:18.913176 IP 13.0.0.29.http > 11.0.0.27.33852: Flags [R], seq 2949311381, win 0, length 0
+
